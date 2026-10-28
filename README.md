@@ -101,14 +101,23 @@ The trained model file is included only if it is available and permitted to redi
    ```
 
 4. Place `best_resnet18.pth` in the project root directory if it is not included in the repository.
+5. ## Download the Trained Model
 
-5. Run the application:
+The trained ResNet18 model weights are hosted on Google Drive.
+
+[Download best_resnet18.pth]((https://drive.google.com/file/d/1elrbkNcUzAz60QpUGl5m0HntseShsRhe/view?usp=sharing))
+
+**Setup:** Download the model file and place it in the same directory as `app.py` before running the application.
+
+The model is provided for educational and research purposes only and is not intended for clinical diagnosis.
+
+6. Run the application:
 
    ```bash
    python -m streamlit run app.py
    ```
 
-6. Open the local URL displayed in the terminal.
+7. Open the local URL displayed in the terminal.
 
 ## Model and Explainability
 
