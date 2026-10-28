@@ -105,11 +105,12 @@ The trained model file is included only if it is available and permitted to redi
 
 The trained ResNet18 model weights are hosted on Google Drive.
 
-[Download best_resnet18.pth]((https://drive.google.com/file/d/1elrbkNcUzAz60QpUGl5m0HntseShsRhe/view?usp=sharing))
+[Download best_resnet18.pth](https://drive.google.com/file/d/1elrbkNcUzAz60QpUGl5m0HntseShsRhe/view?usp=sharing)
 
 **Setup:** Download the model file and place it in the same directory as `app.py` before running the application.
 
 The model is provided for educational and research purposes only and is not intended for clinical diagnosis.
+
 
 6. Run the application:
 
